@@ -35,3 +35,18 @@ Windows:
 .\FortuneTeller.exe
 Linux/macOS:
 ./FortuneTeller
+
+## 📚 What I Learned
+
+- Breaking a program into reusable functions
+- Implementing conditional logic and loops
+- Validating user input
+- Handling invalid input using `cin`
+- Using switch statements
+- Improving code readability and organization
+
+## 🔮 Future Improvements
+
+- Build a browser-based version
+- Improve the user interface
+- Introduce randomized fortunes
