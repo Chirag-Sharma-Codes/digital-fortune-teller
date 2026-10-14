@@ -1,3 +1,5 @@
+<img width="678" height="385" alt="image" src="https://github.com/user-attachments/assets/77a94efa-5ed5-435f-b947-79ab66de2064" />
+
 # 🔮 Digital Fortune Teller
 
 A console-based fortune-telling game built with C++.
